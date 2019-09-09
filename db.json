@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "employee": [
+    { "firstName":"Ram" , "lastName":"Karki" , "Salary":50000 },
+    { "firstName":"Hari" , "lastName":"Bohra" , "Salary":23000 },
+    { "firstName":"Sabita" , "lastName":"Magar" , "Salary":46000"},
+    { "firstName":"Shyam" , "lastName":"Thapa" , "Salary":34000 },
+    { "firstName":"Sashi" , "lastName":"Shrestha" , "Salary":45000 },
+    { "firstName":"Arjun" , "lastName":"Singh" , "Salary":24000 },
+    { "firstName":"Jay" , "lastName":"Dangol" , "Salary":43000 },
+    { "firstName":"Priya" , "lastName":"Ghale" , "Salary":12000 },
+    { "firstName":"Samir" , "lastName":"Maharjan" , "Salary":30000 },
+    { "firstName":"Prithu" , "lastName":"Bastola" , "Salary":32000 }
+  ]
 }
